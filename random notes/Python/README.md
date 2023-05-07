@@ -7,7 +7,6 @@ The python course is divided into three phases as mentioned below.
 1. Introduction to Python
     * What are programming languages?
     * How computers understand the programming language?
-    * What is Python?
     * What are the benefits of learning python?
     * The Interactive Prompt/REPL
 2. Control Statements
